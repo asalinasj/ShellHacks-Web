@@ -7,8 +7,9 @@
   "author": "Gabriel Fajardo <gfajardo95@gmail.com>",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
     "react-slick": "^0.23.1"
   },
   "scripts": {
