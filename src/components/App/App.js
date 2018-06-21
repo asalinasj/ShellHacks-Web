@@ -7,12 +7,13 @@ import About from '../About/About';
 import Schedule from '../Schedule/Schedule';
 import Sponsors from '../Sponsors/Sponsors';
 import Login from '../../Login/login';
+import Profile from '../../ProfilePage/profile';
 
 import './app.css';
 
 export default function App() {
   return (
-    <Login />
+    <Profile />
   //   <div className='app'>
   //     <Nav />
   //     <Banner />
